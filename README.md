@@ -36,11 +36,8 @@ The dashboard is designed to support business and merchandising decisions common
 - Data cleaning and transformation
 - Business-focused data visualization
 
-## Files
-- `Retail Sales Dashboard.xlsx` – Excel dashboard and supporting analysis
-
 ## Image
-![Uploading Screenshot 2026-01-28 at 1.04.56 PM.png…]()
+
 
 
 
