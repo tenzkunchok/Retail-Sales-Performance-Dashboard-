@@ -40,5 +40,6 @@ The dashboard is designed to support business and merchandising decisions common
 - `Retail Sales Dashboard.xlsx` – Excel dashboard and supporting analysis
 
 ## Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Uploading Screenshot 2026-01-28 at 1.02.43 PM.png…]()
+
 
