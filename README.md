@@ -37,6 +37,8 @@ The dashboard is designed to support business and merchandising decisions common
 - Business-focused data visualization
 
 ## Image
+<img width="1239" height="519" alt="Screenshot 2026-01-28 at 1 04 56 PM" src="https://github.com/user-attachments/assets/c746579b-73c1-4f78-8c20-ad3aa4611582" />
+
 
 
 
